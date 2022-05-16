@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Clara</h1>
-<h3 align="center">Welcome! How are u? Positive vibes here. </h3>
+<h3 align="center">Aluna Clara Eduarda Henrique Siqueira de Araújo // IFBA campus Paulo Afonso: 4º ano de INFORMÁTICA </h3>
 
 
 <div align="center" style="display: inline_block">
