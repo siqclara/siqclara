@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Clara</h1>
+<h1 align="center">E ai! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sou Clara</h1>
 <h3 align="center">Aluna Clara Eduarda Henrique Siqueira de Araújo // IFBA campus Paulo Afonso: 4º ano de INFORMÁTICA </h3>
 
 
